@@ -19,4 +19,4 @@ Track transaction performance and customer behavior through KPIs like purchase b
 
 - ## Screenshots
 - https://github.com/saivenkatboora987-prog/Shopify-Power-BI-Project/blob/main/Shopify%20Analysis.png
-- 
+- https://github.com/saivenkatboora987-prog/Shopify-Power-BI-Project/blob/main/Shopify%20Details%20Tab.png
