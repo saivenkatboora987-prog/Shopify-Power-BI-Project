@@ -17,4 +17,5 @@ Track transaction performance and customer behavior through KPIs like purchase b
 - 46% repeat purchase rate → loyalty program optimization
 - Top states: TX, CA, FL, NY → regional targeting opportunities
 
--
+### Screenshots
+
