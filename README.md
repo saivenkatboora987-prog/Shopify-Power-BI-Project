@@ -18,5 +18,5 @@ Track transaction performance and customer behavior through KPIs like purchase b
 - Top states: TX, CA, FL, NY → regional targeting opportunities
 
   ## Screenshot
-- https://github.com/saivenkatboora987-prog/Shopify-Power-BI-Project/blob/main/Shopify%20Analysis.png
+- https://github.com/saivenkatboora987-prog/Shopify-Power-BI-Project/blob/main/Shopify%20Analysis.png.
 
