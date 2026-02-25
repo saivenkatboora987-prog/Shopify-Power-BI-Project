@@ -17,6 +17,4 @@ Track transaction performance and customer behavior through KPIs like purchase b
 - 46% repeat purchase rate → loyalty program optimization
 - Top states: TX, CA, FL, NY → regional targeting opportunities
 
-- ### Screenshots
-- https://github.com/saivenkatboora987-prog/Shopify-Power-BI-Project/blob/main/Shopify%20Analysis.png
-- https://github.com/saivenkatboora987-prog/Shopify-Power-BI-Project/blob/main/Shopify%20Details%20Tab.png
+-
