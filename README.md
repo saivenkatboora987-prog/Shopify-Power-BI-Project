@@ -1,42 +1,18 @@
-# Shopify Sales & Customer Funnel Dashboard
+<p align="center"><img width="112" height="112" alt="Adobe Express - file" src="https://github.com/user-attachments/assets/623a960f-4dd4-43c7-a66c-831a0c7c0e5a" />
+</p>
+# 📊 Shopify Sales & Customer Funnel Dashboard
 
-- **Dashboard Title & Headline**  
-  Shopify Analysis: Sales and Customer Funnel Report
+## Executive Summary
+This dashboard helps small Shopify businesses identify top-selling products, customer loyalty trends, and regional sales hotspots to guide growth decisions.
 
-- **Purpose**  
-  Focuses on transaction performance and customer behavior through KPIs like purchase behavior, retention, and value.
+## Purpose
+Track transaction performance and customer behavior through KPIs like purchase behavior, retention, and value.
 
-- **Technology Used**
-  - Power BI for dashboard creation  
-  - Power Query for data cleaning  
-  - DAX for aggregation, logic, and arithmetic functions  
-  - Single-table analysis (no complex data modeling)  
-  - File formats: `.pbix` (development), `.png` (preview)
+## Technology
+- Power BI, Power Query, DAX
+- Single-table analysis, `.pbix` + `.png`
 
-- **Data Source**
-  - Dummy dataset (USA, one week)  
-  - 7,431 rows, 19 columns  
-  - Includes order details, customer info, product IDs, quantity, total price, and tax
-
-- **Business Problem**  
-  Small companies using Shopify often lack advanced tools to track overall sales health and customer interactions.
-
-- **Goal of Dashboard**  
-  Uncover meaningful insights to guide decisions and enhance future growth.
-
-- **Key Visuals**
-  - KPI cards  
-  - Maps (field & bubble)  
-  - Bar/area charts  
-  - Donut charts  
-  - Column charts
-
-- **Insights**
-  - Running shoes are the highest-selling product  
-  - 46% repeat purchase rate → strong customer loyalty  
-  - Average of 1.67 orders per customer in the timeframe  
-  - Each customer contributes ~$943 revenue per week  
-  - Top states: Texas, California, Florida, New York  
-  - Top cities: Washington, Houston, Dallas, Miami  
-  - Customer activity peaks from 7 AM to midnight  
-  - Shopify Payments is the most preferred gateway
+## Insights & Recommendations
+- Running shoes dominate sales → expand product line
+- 46% repeat purchase rate → loyalty program optimization
+- Top states: TX, CA, FL, NY → regional targeting opportunities
